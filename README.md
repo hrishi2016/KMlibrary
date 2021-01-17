@@ -3,7 +3,7 @@ this repo is created for python django project for a library anyone can contribu
 this is made for a webapp that enables to view and select listed books that are availiable in the library.
 this library is a nonprofit organization in the name of kunjunnimaster memmorial library in a village called nirmallure.
 we aim to build this project becouse one can easily acces the library from their comfort and also to reach out more number of people with a task of one book one week knowledge is power!!!
-<<<<<<<OUTLINE OF THIS WEBAPP>>>>>>>>
+*********OUTLINE OF THIS WEBAPP*********
 app include
 1.otp login with session
 2.library list for people (to list and see the books)
