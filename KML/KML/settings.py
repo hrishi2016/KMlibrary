@@ -26,7 +26,7 @@ SECRET_KEY = '+*j(yi(@u^lc&_z&02q2=38#u@&(7q)m@%7b@92@9$g_tb8#8-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '']
+ALLOWED_HOSTS = ['127.0.0.1', 'kmlibrary.herokuapp.com/']
 
 
 # Application definition
